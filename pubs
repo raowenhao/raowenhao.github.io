@@ -1,0 +1,231 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<meta name="Description" content="Information architecture, Web Design, Web Standards." />
+<meta name="Keywords" content="your, keywords" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="Distribution" content="Global" />
+<meta name="Robots" content="index,follow" />
+
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="stylesheet" href="images/style.css" type="text/css" />
+
+<title>Rui Li's Homepage</title>
+	
+</head>
+
+<body>
+<!-- wrap starts here -->
+<div id="wrap">
+		
+		<!--header -->
+		<div id="header">			
+				
+			<h1 id="logo-text"><a href="index.htm"><font size="6">Dr. Rui Li</font></a></h1>		
+			<p id="slogan">Welcome to My Personal Academic Homepage...</p>			
+			
+			<div id="header-links">
+			<p>
+				<a href="index.html">Home</a> | 
+				<a href="contact.htm">Contact</a>			
+			</p>		
+		</div>		
+						
+		</div>
+		
+		<!-- menu -->	
+		<div  id="menu">
+			<ul>
+				<li><a href="index.html"><span>Home</span></a></li>
+				<li id="current"><a href="pubs.htm"><span>Publications</span></a></li>
+				<li><a href="downloads.htm"><span>Downloads</span></a></li>
+				<li><a href="links.htm"><span>Links</span></a></li>
+				<li><a href="contact.htm"><span>Contact</span></a></li>	
+				<li class="last"><a href="chs.htm"><span>Chinese Homepage</span></a></li>		
+			</ul>
+		</div>					
+			
+		<!-- content-wrap starts here -->
+		<div id="content-wrap">
+				
+			<div id="sidebar">
+					
+				<h3>Sidebar Menu</h3>
+				<ul class="sidemenu">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="#reports">Technical Reports</a></li>	
+					<li><a href="#pre-journal">Submitted to Journals</a></li>
+					<li><a href="#thesis">Thesis</a></li>
+					<li><a href="#journal">Journal Publications</a></li>
+					<li><a href="#conference">Conference Publications</a></li>	
+				</ul>	
+				
+			
+				<h3>Useful Dateset Links</h3>
+				<ul class="sidemenu">
+					<li><a href="http://people.brunel.ac.uk/~mastjjb/jeb/info.html" target="_blank">OR-Library</a></li>
+					<li><a href="http://soa.iti.es/instancias-problemas" target="_blank">HFSP</a></li>
+					<li><a href="http://people.idsia.ch/~monaldo/fjsp.html">FJSP</a></li>
+					<li><a href="https://www.eii.uva.es/elena/JSSP/InstancesJSSP.htm">JSP</a></li>	
+					<li><a href="http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/">TSP</a></li>	
+					<li><a href="https://neo.lcc.uma.es/vrp/vrp-instances/">VRP</a></li> 	
+					<li><a href="https://mp.weixin.qq.com/s?__biz=MzU2NDc1MTE3Mg==&mid=2247492743&idx=1&sn=f6dfe7e72097904df1ab506229142d06&chksm=fc449aaccb3313ba520907c24a7fe3f55baac317a9b2642bea40461c68563b6a34dde58d8251&mpshare=1&scene=23&srcid=0322vT1EvLdkJ39NeNPsZY4a&sharer_sharetime=1616420325599&sharer_shareid=bc983d332939acb33bd9ffe1db12664f#rd">Other OR problem</a></li> 
+					<li><a href="https://github.com/BIMK/PlatEMO">PlatEMO</a></li> 
+					<li><a href="https://github.com/intLyc/MTO-Platform">MTO-Platform</a></li>
+					
+				</ul>	
+				
+				<h3>Just Thinking...</h3>
+				<div class="left-box">
+					<p><img border="0" src="./images/cat.gif" width="185" height="100"/></p>
+				</div>	
+				
+				<div class="left-box">
+					<a href="http://www.clustrmaps.com/map/cs.cug.edu.cn/teacherweb/gwy/" title="Visitor Map for cs.cug.edu.cn/teacherweb/gwy/"><img src="//www.clustrmaps.com/map_v2.png?u=JSCi&d=q7U6bRRwpgblsnZG0INv2bchv3QgqcaGG1a7STerjw8" /></a>
+				</div>
+
+				<!--div class="left-box">
+					<a href="http://www.digits.com" target="_blank">
+					<img src="http://counter.digits.com/?counter={1b051665-c5b8-39a4-15c2-0a2f9a7e3991}&template=simple" 
+					 alt="Hit Counter by Digits" border="0"  />
+					</a>
+				</div -->
+			
+			</div>
+				
+			<div id="main">
+				
+				<a name="reports"></a>
+				<h2>Technical Reports</h2>
+				<ol>
+					<li>None!</li>
+				</ol>
+
+				<a name="pre-journal"></a>
+				<h2>Submitted to Journals</h2>
+				<ol>				
+					
+				</ol>
+
+			    <a name="thesis"></a>
+				<h2>Thesis</h2>	
+				
+				<h3>Ph.D. Thesis</h3> 
+					<ol>
+						<li>None</li>
+					</ol>
+
+				<h3>Master Thesis</h3> 
+					<ol>
+						<li>Model-driven learning-based memetic algorithms for green distributed flexible job shop scheduling problem</li>
+					</ol>
+				
+			    <a name="journal"></a>
+				<h2>Journal Publications</h2>
+				<h3>---2023---</h3> 
+					<ol reversed>   <!-- 2023-->
+						<li>
+						<b>R. Li</b>, W. Gong*, C.Lu, <font color=#0000ff>Multiform Optimization with Knowledge Transfer for Multi-objective Distributed Heterogeneous Permutation Flowshop Scheduling</font>, <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>. R0-Under Review. 
+						</li>
+						<li>
+						<b>R. Li</b>, W. Gong*, L. Wang*, C.Lu, <font color=#0000ff>Dual-Agents Q-learning and Competitive Swarm Cooperative Optimizer for Green Distributed Heterogeneous Flowshop Scheduling</font>, <em>European Journal of Operational Research</em>. R0-Under Review. 
+						</li>
+						<li>
+						<b>R. Li</b>, W. Gong*, L. Wang*, C.Lu, <font color=#0000ff>Learning and Cooperative based Two-phase Optimizer for Distributed Heterogeneous Unrelated Parallel Machine Scheduling with Order Priority</font>, <em>Engineering Application and Artificial Intelligence (T2)</em>. R0-Under Review. 
+						</li>	
+						<li>
+						<b>R. Li</b>, W. Gong*, L. Wang*, C.Lu, <font color=#0000ff>Double DQN-based Coevolution For Green Distributed Heterogeneous Hybrid Flowshop Scheduling with Multiple Priorities of Jobs</font>, <font color="red"><em>IEEE Transactions on Automation Science and Engineering</em></font>. (since 28-Dec-2022) R1-With AE. 
+						</li>
+						<li>
+						<b>R. Li</b>, W. Gong*, L. Wang*, C.Lu, <font color=#0000ff>Co-evolution with Deep Reinforcement Learning For Energy-Aware Distributed Heterogeneous Flexible Job Shop Scheduling</font>, <font color="red"><em>IEEE Transctions on Systems, Man, and Cybernetics: Systems</em></font>. (since 23-Aug-2022) R2-Under Review. 
+						</li>
+						<li>
+						<b>R. Li</b>, W. Gong*, L. Wang*, C.Lu, X.Zhuang, <font color=#0000ff>Surprisingly Popular-based Adaptive Memetic Algorithm for Energy-efficient Distributed Flexible Job Shop Scheduling</font>, <font color="red"><em>IEEE Transctions on Cybernetics</em></font>.  May, 2022. Accepted (T1 Top, CCF-B). [<A href="Code/SPAMA-TCYB2022.rar">code Matlab</A>]
+						</li>
+					</ol>
+				<h3>---2022---</h3> 
+					<ol reversed>  <!-- 2022 -->
+						<li>
+						<b>R. Li</b>, W. Gong*, C. Lu*, <font color=#0000ff>Two-stage knowledge-driven evolutionary algorithm for distributed flexible job shop scheduling problem with type-2 fuzzy processing time</font>, <em>Swarm and Evolutionary Computation</em>. 2022,74,101139.(T1).[<A href="Code/TSKEA.rar">code Matlab</A>][<A href="https://www.sciencedirect.com/science/article/pii/S2210650222001092?via%3Dihub">paper</A>]
+						</li>			
+						<li>
+						<b>R. Li</b>, W. Gong*, L. Wang, C.Lu, <font color=#0000ff>A Learning-based Memetic Algorithm for Energy-Efficient Flexible Job Shop Sc heduling With Type-2 Fuzzy Processing Time</font>, <font color="red"><em>IEEE Transctions on Evolutionary Computation</em></font>. May, 2022. Accepted (T1 Top, CCF-B).[<A href="Code/LRVMA-mat.rar">code Matlab</A>][<A href="https://ieeexplore.ieee.org/document/9776510">paper</A>]
+						</li>
+						<li>
+						<b>R. Li</b>, W. Gong*, C. Lu, <font color=#0000ff>A reinforcement learning based RMOEA/D for bi-objective fuzzy flexible job shop scheduling</font>, <em>Expert System With Application</em>. 2022, 203, 117380 (T2,CCF-C). [<A href="Code/RMOEAD-matlab.rar">code Matlab</A>] [<A href="https://www.sciencedirect.com/science/article/pii/S0957417422007291">paper</A>]
+						</li>
+						<li>
+						<b>R. Li</b>, L. Wang, W. Gong*, <font color=#0000ff>Knowledge-driven memetic algorithm for distributed green flexible job shop scheduling</font>, <em>Journal of Huazhong University of Science and Technology (Natural Science Edition)</em>. 2022, 50(06):55-60.(EI). [<A href="Code/HMMA_code.rar">code Matlab</A>][<A href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=HZLG20220509008&uniplatform=NZKPT&v=qY1LjggmLfidwf5MKZc6rjrUPmfci09cUshFH32qF7r1MFZ7dYCjznsz_T9UdNu8">paper in Chinese</A>] 
+						</li>
+						<li>
+						<b>R. Li</b>, W. Gong*, C. Lu, <font color=#0000ff>Self-adaptive multi-objective evolutionary algorithm for flexible job shop scheduling with fuzzy processing time</font>, <em>Computers & Industrial Enginering</em>. 2022, 168, 108099 .(T2). [<A href="Code/HPEA_code.rar">code Matlab</A>] [<A href="Publication/HPEA-CAIE.pdf">paper</A>]
+						</li>
+					</ol>
+				<h3>---2021---</h3> 
+					<ol>    <!-- 2021 -->
+						<li>
+						<b>R. Li</b>, W. Gong*, <font color=#0000ff>An improved multi-objective optimization based on decomposition for bi-objective fuzzy flexible job shop problem</font>, <em>Control Theory & Application</em>. 2022, 39(01): 31-40(EI). [<A href="Code/IMOEAD_FFJSP.rar">code Matlab</A>] [<A href="Publication/IMOEAD-CTAA.pdf">paper in Chinese</A>]
+						</li>    						
+					</ol>
+
+				<a name="conference"></a>
+				<h2>Conference Publications</h2>
+					<ol>
+						<!-- 2022 -->	
+						<li>None</li>
+					</ol>
+				
+				<a name="Cooperative publication"></a>
+				<h2>Cooperative publication</h2>
+					<h3>---2023---</h3> 
+					<ol reversed>    <!-- 2023 -->
+						<li>
+						H.Wang, <b>R. Li</b>, W. Gong*, <font color=#0000ff>Minimizing tardiness and makespan for distributed heterogeneous unrelated parallel machine scheduling by knowledge and Pareto-based memetic algorithm</font>, <em>Egyptian Informatics Journal (T3)</em>. May, 2023, Accept. [<A href="Code/KPMA_py.rar">code Python and Dataset</A>]
+						</li>
+						<li>
+						C.Luo, W. Gong*, <b>R. Li</b>, C. Lu, <font color=#0000ff>Problem-specific Knowledge MOEA/D for Energy-efficient Scheduling of Distributed Permutation Flow Shop in Heterogeneous Factories</font>, <em>Engineering Application and Artificial Intelligence (T2)</em>. May, 2023, Accept. 
+						</li>
+						<li>
+						K. Huang,<b>R. Li</b>, W. Gong*, R. Wang, W. Bian, <font color=#0000ff>Competitive and Cooperative-based Strength Pareto Evolutionary Algorithm for Green Distributed Heterogeneous Flow Shop Scheduling</font>, <em>Intelligent Automation & Soft Computing (T4)</em>. April, 2023, Accept. [<A href="Code/CCSPEA_mat.rar">code Matlab</A>]
+						</li>
+						<li>
+						 K. Huang, <b>R. Li</b>, W. Gong*, R. Wang, H. Wen, <font color=#0000ff>BRCE: Bi-roles Co-evolution for Energy-efficient Distributed Heterogeneous Permutation Flow Shop Scheduling with Flexible Machine Speed</font>, <em>Complex & Intelligent Systems</em>. Accept(T2). [<A href="Code/BRCE-mat.rar">code Matlab</A>] [<A href="Publication/LR2023CAIS.pdf">paper</A>]
+						</li>   						
+					</ol>
+
+			</div>
+		
+		<!-- content-wrap ends here -->	
+		</div>
+					
+		<!--footer starts here-->
+		<div id="footer">
+			
+			<p>   			
+			Design by: <a href="http://www.styleshout.com/" target="_blank">styleshout</a> | 
+			Modified by: <a href="index.html">CUG Rui Li</a> |
+			Valid: <a href="http://validator.w3.org/check/referer" target="_blank">XHTML</a> | 
+			<a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">CSS</a>		
+			
+			<br>
+			<SCRIPT  LANGUAGE="JavaScript">
+				if (Date.parse(document.lastModified) != 0) 
+				{
+					var modiDate = new Date(document.lastModified); 
+					var monthName = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"); 
+					document.write("Last modified: " + monthName[modiDate.getMonth()] + " "); 
+					document.write(modiDate.getDate() + ", " + modiDate.getFullYear()); 
+				} 
+			</SCRIPT>
+		
+			</p>
+				
+		</div>	
+
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>
