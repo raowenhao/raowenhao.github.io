@@ -11,6 +11,16 @@
    HTML ELEMENTS
 ********************************************/ 
 
+.image-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-image {
+    margin-right: 10px;
+}
+
+
 /* Top Elements */
 * { margin: 0; padding: 0; outline: 0 }
 
